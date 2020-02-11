@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project!
+#  CDK TypeScript project!
 
-This is a blank project for TypeScript development with CDK.
+This is app to create a vpc and provision an EC2 with apropriate IAM role using TypeScript CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
